@@ -1,0 +1,32 @@
+h1 {
+	padding-left: 110px;
+	font-size: 100px;
+	color: whitesmoke;
+}
+body {
+	 width: 900px;
+	 margin-left: 300px;
+	 background-image:url(bg.jpg) ;
+	 background-size: cover;
+	 background-position: center;
+
+
+}
+
+.title {
+	border-bottom:3px solid  #808080;
+}
+
+.container  {
+	display: flex;
+}
+
+.images {
+	height: 120px;
+ 	width: 120px;
+ 	border-radius: 50px;
+}
+
+figcaption {
+	padding-left: 30px;
+}
