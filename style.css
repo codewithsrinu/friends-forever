@@ -4,8 +4,7 @@ h1 {
 	color: whitesmoke;
 }
 body {
-	 width: 900px;
-	 margin-left: 300px;
+	 
 	 background-image:url(bg.jpg) ;
 	 background-size: cover;
 	 background-position: center;
@@ -29,4 +28,5 @@ body {
 
 figcaption {
 	padding-left: 30px;
+	color: whitesmoke;
 }
